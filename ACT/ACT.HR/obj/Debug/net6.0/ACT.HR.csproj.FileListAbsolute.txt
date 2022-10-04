@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\bin\Debug\net6.0\ACT.HR.exe
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\bin\Debug\net6.0\ACT.HR.deps.json
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\bin\Debug\net6.0\ACT.HR.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\bin\Debug\net6.0\ACT.HR.dll
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\bin\Debug\net6.0\ACT.HR.pdb
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ACT.HR.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ACT.HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ACT.HR.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ACT.HR.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ACT.HR.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ACT.HR.dll
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\refint\ACT.HR.dll
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ACT.HR.pdb
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ACT.HR.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\Projects\ACT\ACT.HR\obj\Debug\net6.0\ref\ACT.HR.dll

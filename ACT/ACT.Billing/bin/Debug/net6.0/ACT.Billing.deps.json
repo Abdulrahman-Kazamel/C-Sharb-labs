@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ACT.Billing/1.0.0": {
+        "dependencies": {
+          "ACT.HR": "1.0.0"
+        },
+        "runtime": {
+          "ACT.Billing.dll": {}
+        }
+      },
+      "ACT.HR/1.0.0": {
+        "runtime": {
+          "ACT.HR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACT.Billing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ACT.HR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

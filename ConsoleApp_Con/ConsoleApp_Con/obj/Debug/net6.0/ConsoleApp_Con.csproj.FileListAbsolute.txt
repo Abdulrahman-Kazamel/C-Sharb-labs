@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\bin\Debug\net6.0\ConsoleApp_Con.exe
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\bin\Debug\net6.0\ConsoleApp_Con.deps.json
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\bin\Debug\net6.0\ConsoleApp_Con.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\bin\Debug\net6.0\ConsoleApp_Con.dll
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\bin\Debug\net6.0\ConsoleApp_Con.pdb
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ConsoleApp_Con.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ConsoleApp_Con.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ConsoleApp_Con.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ConsoleApp_Con.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ConsoleApp_Con.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ConsoleApp_Con.dll
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\refint\ConsoleApp_Con.dll
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ConsoleApp_Con.pdb
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ConsoleApp_Con.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\Projects\ConsoleApp_Con\ConsoleApp_Con\obj\Debug\net6.0\ref\ConsoleApp_Con.dll

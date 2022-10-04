@@ -1,0 +1,15 @@
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\bin\Debug\net6.0\Sallary_Slip.exe
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\bin\Debug\net6.0\Sallary_Slip.deps.json
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\bin\Debug\net6.0\Sallary_Slip.runtimeconfig.json
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\bin\Debug\net6.0\Sallary_Slip.dll
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\bin\Debug\net6.0\Sallary_Slip.pdb
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\Sallary_Slip.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\Sallary_Slip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\Sallary_Slip.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\Sallary_Slip.AssemblyInfo.cs
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\Sallary_Slip.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\Sallary_Slip.dll
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\refint\Sallary_Slip.dll
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\Sallary_Slip.pdb
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\Sallary_Slip.genruntimeconfig.cache
+C:\Users\Mahmoud\Desktop\Projects\Sallary_Slip\Sallary_Slip\obj\Debug\net6.0\ref\Sallary_Slip.dll

@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ACT.HR/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ACT.HR.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ACT.HR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACT.HR/1.0.0": {
+      "type": "project",
+      "path": "../ACT.HR/ACT.HR.csproj",
+      "msbuildProject": "../ACT.HR/ACT.HR.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ACT.HR >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mahmoud\\Desktop\\Projects\\ACT\\ACT.Billing\\ACT.Billing.csproj",
+      "projectName": "ACT.Billing",
+      "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Projects\\ACT\\ACT.Billing\\ACT.Billing.csproj",
+      "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mahmoud\\Desktop\\Projects\\ACT\\ACT.Billing\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Mahmoud\\Desktop\\Projects\\ACT\\ACT.HR\\ACT.HR.csproj": {
+              "projectPath": "C:\\Users\\Mahmoud\\Desktop\\Projects\\ACT\\ACT.HR\\ACT.HR.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
